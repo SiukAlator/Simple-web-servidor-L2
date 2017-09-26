@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Quiero LLegar</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<!--top part start -->
+	<div id="top">
+  <a href="index.html"><img src="images/logo.png" alt="individual" width="280" height="130" border="0" /></a>
+	</div>
+	<!--top part end -->
+	<!--header start -->
+	<div id="header">
+	<h2><!--<span>Information About Individual</span></h2>
+	<p>Individual is a <span>free, tableless, W3C-compliant</span> web design layout by Template World. This template has been tested and proven compatible with all major browser environments and operating systems. You are free to modify the design to suit your tastes in any way you like. <br />
+	We only ask you to not remove "Design by Template World" and the link http://www.templateworld.com from the footer of the template.<br />
+	These templates are licensed under a <span>Creative Commons Attribution 2.5 License</span>.</p>-->
+	</div>
+	<!--header end -->
+	<!--body start -->
+	<div id="body">
+	<br class="spacer" />
+	<ul class="nav">
+	<li class="navLink"><a href="BSPM.html" class="espm">encontrar servicio por mapa</a></li>
+	<li class="navLink"><a href="BSPC.html" class="espc">encontrar servicio por catalogo</a></li>
+	<li class="navLink"><a href="PS.html" class="ps">publicar servicio</a></li>
+	<!--<li class="navLink"><a href="#" class="registrate">registrate</a></li>-->
+	<li class="navLinkNoBdr"><a href="REG.html" class="registrate">registrate</a></li>	
+	</ul>
+  <!--left panel start -->
+  <div id="left">
+  <h2></h2>
+  </div>
+   <!--left panel end -->
+   <!--mid panel start -->
+   <center>
+	<span style=" font-family: helvetica; font-size: 24px; color: #000;">
+	     <b>¿CÓMO ME REGISTRO EN <i>QuieroLlegar.com?</i></b>
+	</span><br><br>   </center>
+	<span style="width: 100%; font-family: helvetica; font-size: 14px; color: #000;">
+	<td>
+   <img src="images/REG/1.JPG" alt="individual" width="677" height="147" border="0" />
+   <p><b>1. Selecciona Registrate.</b></p>
+	</span><br><br>
+	</td>
+	<tr>
+	<span style="width: 100%; font-family: helvetica; font-size: 14px; color: #000;">
+	<td>
+   <img src="images/REG/2.JPG" alt="individual" width="528" height="533" border="0" />
+   <p><b>2. Completa el Formulario.</b></p>
+	</span><br><br>
+	</td>
+	<tr>
+		<span style="width: 100%; font-family: helvetica; font-size: 14px; color: #000;">
+	<td>
+   <img src="images/REG/3.JPG" alt="individual" width="528" height="547" border="0" />
+   <p><b>3. Presiona "Registrate".</b></p>
+	</span><br><br>
+	</td>
+	<tr>
+		<!--footer start -->
+	<div id="footerMain">
+	<div id="footer">
+
+	<a href="http://validator.w3.org/check?uri=referer" target="_blank" class="xht"></a>
+	<a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" class="cs"></a>
+	<p class="design">Diseñado por: <a href="http://www.innsoft.cl/" target="_blank" class="link"><b><i>InnSoft</i> &reg;</b></a></p>
+	</div>
+	</div>
+	<!--footer end -->
+</body>
+</html>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings><title>phpEasyVCS</title><auth>basic</auth><secret>admin</secret><timezone>UTC</timezone><dateformat>%Y-%m-%d %H:%M</dateformat><tmpdir>/tmp</tmpdir><realm>admin</realm><admin_name>prueba</admin_name><admin_a1>6332f8e5038f3c8a599e7d276b48ea44</admin_a1><admin_a1r>395a149a003193a034b381df7e549478</admin_a1r></settings>

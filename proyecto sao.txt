@@ -1,0 +1,31 @@
+Esta sección me la tome personalmente para mostrar lo que me motivo a hacer este servidor, algunas ideas de que 
+como ha sido mi experiencia y lo que espero que resulte.
+
+Sin tener ninguna idea de como comenzar, primero quisiera mencionar que la idea de tener un servidor de juego 
+siempre ha sido un proyecto que me ha motivado ya que soy un fanático de los MMORPG desde la infancia, aunque como 
+se imaginaran no solo implica el conocimiento informático, sino de diseño y una idea para la temática de este.
+
+Y bueno, así comencé a crear un servidor de juego MU Online (fue mi primer MMORPG) el cual sin conocimientos 
+informáticos  logre levantar pero no duro mucho... después conocí el Lineage 2, un juego que puedo decir que me 
+vició por ser el primer MMO con buenos gráficos, un mundo gigante por explorar, buena metodología de juego... y 
+bueno, me mantuvo jugando cerca de 2 años como jugador activo hasta que me afecto en mis estudios y decidí 
+retirarme. Sin entrar en mas detalles, adqueri mas conocimientos informáticos, hice otro servidores de juego del 
+Lineage pero funcionó por poco tiempo...
+
+Así también al pasar el tiempo tome gusto por el anime, y cuando llegue a ver "Sword Art Online" volvió las ganas 
+de volver a jugar MMORPG, alguno que se le parezca a este anime, sin embargo no encontré ninguno. Mucho se 
+acercaban a la temática pero carecían otros atributos, que  a mi parecer podían estar todas juntas en un solo 
+servidor. Es entonces cuando me nació la idea de volver a crear un servidor pero esta vez que refleje todo lo que 
+me gusta del anime SAO y de los juegos MMO, en donde armé este proyecto considerando variables de temática 
+similares al anime, por ejemplo que sea libre PVP (donde nacen algunos PKs), donde también una comunidad que en 
+variables de MMORPG, no exista la diferencia extrema entre donadores y no donadores (Los items competitivos pueden 
+ser alcanzados por todos), quitando personajes que no cumple un rol protagonico en la historia como buffers, no 
+así los "bladedancer" o "songsinger" que para mi si son protagónicos.
+
+Y así fui agregando detalles al juego en un largo periodo invirtiendo tiempo libre y llegando a lo que conocemos 
+hasta ahora. Espero que este juego sea de su agrado, seré activo en responder sus dudas y participando de la 
+comunidad para que cada vez sea mejor.
+
+Esperando que puedan vivir una grata experiencia en este mundo, nuevas aventuras y superando cada desafío. A su 
+vez esperando que podamos crear una buena comunidad siendo ustedes los protagonista de esta historia, se despide
+
